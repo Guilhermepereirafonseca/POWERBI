@@ -2,7 +2,7 @@
 <img src="https://www.vuepilot.com/wp-content/uploads/2021/02/power-bi-banner.jpg" width="400px">
 
 # POWER BI DESKTOP
-_**Arquivos da aula de Power BI da Via Certa**_
+🗒️ _**Arquivos da aula de Power BI da Via Certa**_
 
 ✔️ Conceitos Aprendidos:
 1. Instalar o Power BI Desktop
